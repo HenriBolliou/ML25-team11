@@ -1,0 +1,2 @@
+model,final_rmse,sample_size_k,training_time_min,ntree,nodesize,mtry
+Bagging (RF Subset),34.66291274312211,25,99.6,200,20,300

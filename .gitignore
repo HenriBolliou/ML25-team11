@@ -1,0 +1,17 @@
+# Data folders
+Data/Bronze/
+Data/Silver/
+Data/Gold/
+
+# RStudio / R files
+.Rproj.user/
+.Rhistory
+.RData
+.RDataTmp
+.RDataTmp1
+.RDataTmp2
+*.RData
+*.rdata
+
+# OS files
+.DS_Store
